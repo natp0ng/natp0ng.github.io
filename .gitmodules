@@ -1,4 +1,0 @@
-[submodule "public"]
-	path = public
-	url = https://github.com/natp0ng/natp0ng.github.io.git
-	branch = master
