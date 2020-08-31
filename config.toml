@@ -1,0 +1,5 @@
+baseURL = "https://natp0ng.github.io/"
+languageCode = "en-us"
+title = "My New Site"
+theme = "ananke"
+publishDir = "public"
